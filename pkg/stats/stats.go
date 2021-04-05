@@ -1,7 +1,7 @@
 package stats
 
 import (
-	"github.com/Romiz01/bank2/v2/pkg/types"
+	"github.com/Romiz01/bank1/v2/pkg/types"
 )
 
 // Avg 1
